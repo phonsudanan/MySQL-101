@@ -1,1 +1,1 @@
-![alt text](MySQL day1.png)
+![alt text](MySQLday1.png)
